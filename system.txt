@@ -2,3 +2,4 @@ kcron
 khelpcenter
 ksystemlog
 kwalletmanager
+zutty

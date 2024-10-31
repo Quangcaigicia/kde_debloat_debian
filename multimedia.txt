@@ -1,6 +1,8 @@
 audiocd-kio
+dragonplayer
 elisa
 ffmpegthumbs
+juk
 kamoso
 kdenlive
 kmix

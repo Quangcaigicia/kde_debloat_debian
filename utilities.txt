@@ -13,6 +13,9 @@ kmail
 kmail-account-wizard
 knotes
 kontact
+kate
+kwrite
+knotes
 korganizer
 mbox-importer
 pim-data-exporter

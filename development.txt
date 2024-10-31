@@ -1,5 +1,6 @@
 kdevelop
 kdevelop-php
+kate
 cervisia
 dolphin-plugins
 kapptemplate
